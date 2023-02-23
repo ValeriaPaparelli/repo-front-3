@@ -11,7 +11,7 @@ const tripulantes = [
 
 const Tripulantes = () => {
   let tripulacion = tripulantes.map((tripulante) => (
-    <StatusTripulante {...tripulante} />
+    <StatusTripulante key={tripulante.id} {...tripulante} />
   ));
 
   return <ul>{tripulacion}</ul>;
