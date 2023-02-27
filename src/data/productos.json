@@ -1,0 +1,80 @@
+{
+    "facial": [
+      {
+        "id": 1,
+        "name": "Crema piel grasa",
+        "img": "https://cdn.shopify.com/s/files/1/0553/7618/3462/products/polux_540x.jpg?v=1616357874",
+        "aptoBebe": false,
+        "categoria": "facial"
+      },
+      {
+        "id": 2,
+        "name": "Crema piel mixta",
+        "img": "https://cdn.shopify.com/s/files/1/0553/7618/3462/products/maia_540x.jpg?v=1616357879",
+        "aptoBebe": false,
+        "categoria": "facial"
+      },
+      {
+        "id": 3,
+        "name": "Crema piel seca",
+        "img": "https://cdn.shopify.com/s/files/1/0553/7618/3462/products/vega_540x.jpg?v=1616357878",
+        "aptoBebe": false,
+        "categoria": "facial"
+      }
+    ],
+    "corporal": [
+      {
+        "id": 1,
+        "name": "Crema corporal",
+        "img": "https://cdn.shopify.com/s/files/1/0553/7618/3462/products/dube_540x.jpg?v=1616357852",
+        "aptoBebe": false,
+        "categoria": "corporal"
+      },
+      {
+        "id": 2,
+        "name": "Bálsamo corporal",
+        "img": "https://cdn.shopify.com/s/files/1/0553/7618/3462/products/balsamo_540x.png?v=1646837570",
+        "aptoBebe": true,
+        "categoria": "corporal"
+      },
+      {
+        "id": 3,
+        "name": "Aceite de jojoba",
+        "img": "https://cdn.shopify.com/s/files/1/0553/7618/3462/products/aceite-corporal_540x.png?v=1646837523",
+        "aptoBebe": true,
+        "categoria": "corporal"
+      }
+    ],
+    "limpieza": [
+      {
+        "id": 1,
+        "name": "Crema de Limpieza",
+        "img": "https://cdn.shopify.com/s/files/1/0553/7618/3462/products/meissa-1_540x.jpg?v=1616357864",
+        "aptoBebe": false,
+        "categoria": "limpieza"
+      },
+      {
+        "id": 2,
+        "name": "Gel de Limpieza",
+        "img": "https://cdn.shopify.com/s/files/1/0553/7618/3462/products/schedar-1_540x.jpg?v=1616357865",
+        "aptoBebe": false,
+        "categoria": "limpieza"
+      }
+    ],
+    "capilar": [
+      {
+        "id": 1,
+        "name": "Shampoo sólido",
+        "img": "https://cdn.shopify.com/s/files/1/0553/7618/3462/products/IMG_4609_540x.jpg?v=1635202215",
+        "aptoBebe": true,
+        "categoria": "capilar"
+      },
+      {
+        "id": 2,
+        "name": "Acondicionador Sólido",
+        "img": "https://cdn.shopify.com/s/files/1/0553/7618/3462/products/IMG_4605_540x.jpg?v=1635202348",
+        "aptoBebe": true,
+        "categoria": "capilar"
+      }
+    ]
+  }
