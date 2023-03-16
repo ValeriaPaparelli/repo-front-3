@@ -6,7 +6,9 @@ import ReactDOM from "react-dom/client";
 //import App from "./digitalProducts/App";"
 //import App from "./sportProducts/App";
 //import App from "./Form/App";
-import App from "./Select/App";
-import "./index.css";
+//import App from "./Select/App";
+//import App from "./primerEntregable/App";
+import App from "./pizzeria/App";
+//import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(<App />);
