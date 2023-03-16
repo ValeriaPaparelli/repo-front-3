@@ -1,0 +1,10 @@
+.container-card{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid silver;
+    background-color: rgb(179, 179, 251);
+    color: rgb(40, 40, 72);
+}
